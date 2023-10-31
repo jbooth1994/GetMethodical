@@ -224,4 +224,4 @@ public static String getRegExString(Scanner pipe, String prompt, String regExPat
 
 }
 
-public static String getPrettyHeader {
+
